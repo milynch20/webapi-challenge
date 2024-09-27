@@ -26,13 +26,28 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    ANS: 1. I learned about middleware that allows more functionality to our api endpoints 
+
+        2. I learned about routers on the back end which are similar to routers in react 
+which allowed us to create urls that route users to different places 
+
+
 - [ ] Describe Middleware?
+
+    ANS:  A way to expend features provided by express framework.
 
 - [ ] Describe a Resource?
 
+    ANS: Something that you can reference for help or something that contains knowledge 
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    ANS: APIs return a res.status that shows us if its successful(200) if it is not fount(400) or if theres a server error(500)
+
 - [ ] How can we partition our application into sub-applications?
+
+    ANS: We can have files that handle specific routes, and files that hold a port for the server to listen and make applications more
+manageabl
 
 ## Project Setup
 
